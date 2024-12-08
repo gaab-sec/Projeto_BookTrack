@@ -1,6 +1,6 @@
 # Sistema de Gestão de Biblioteca - BookTrack
 
-Este é um projeto desenvolvido para a disciplina de **Introdução ao Desenvolvimento de Sistemas** no **1º semestre da faculdade**. O objetivo foi criar um sistema simples de gerenciamento de livros, permitindo o cadastro e visualização de livros em uma biblioteca.
+Este é um projeto de nível básico desenvolvido para a disciplina de **Introdução ao Desenvolvimento de Sistemas** no **1º semestre da faculdade**. O objetivo foi criar um sistema simples de gerenciamento de livros, permitindo o cadastro e visualização de livros em uma biblioteca.
 
 ## Tecnologias Utilizadas
 
