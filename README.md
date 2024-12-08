@@ -26,7 +26,7 @@ Durante o desenvolvimento deste sistema, tive a chance de aprender novos conceit
 Veja abaixo algumas imagens do sistema em funcionamento:
 
 1. **Página Inicial (Index)**  
-   ![Página Inicial](site_img/1-index.png)
+   ![Página Inicial](site_img/1-Index.png)
 
 2. **Adicionar Livro**  
    ![Adicionar Livro](site_img/2-Adicionar_livros.png)
